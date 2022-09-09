@@ -1,0 +1,42 @@
+{
+    "manifest": {
+        "version": "1.0",
+        "name": "Promise Under Hot Spring_Aesopdu",
+        "author": "Enderxity",
+        "license": "CC0 1.0",
+        "updater": "https:\/\/github.com\/Enderxity\/Spring_Aesopdu-Aliucord\/blob\/main\/PromiseDuDu.json"
+    },
+    "background": {
+        "blur_radius": 3,
+        "url": "https:\/\/media.discordapp.net\/attachments\/1014383243530875000\/1017450889528746024\/3.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/803090285470154755\/912657567010918420\/Rubik-Medium.ttf"
+    },
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 385875968,
+        "input_background": 1040187393,
+        "accent": -9459234,
+        "mention_highlight": 652051056,
+        "active_channel": 2118265900
+    },
+    "colors": {
+        "link": -10191147,
+        "primary_dark_300": -9459234,
+        "primary_dark_200": -3032900,
+        "primary_dark_400": -7827310,
+        "primary_dark_800": 838860800,
+        "uikit_btn_bg_color_selector_red": -9459234,
+        "uikit_settings_item_text_color_dark": -3032900
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -9459234,
+        "ic_sidebar_notifications_on_dark_24dp": -9459234,
+        "ic_sidebar_pins_off_dark_24dp": -9459234,
+        "ic_sidebar_pins_on_dark_24dp": -9459234,
+        "ic_sidebar_search_24dp": -9459234,
+        "ic_thread": -9459234
+    },
+    "raws": {}
+}
